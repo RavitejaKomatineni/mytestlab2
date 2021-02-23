@@ -15,6 +15,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>MyTestLapClass2</apexClass>
+        <apexClass>TestLab2Example1</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
